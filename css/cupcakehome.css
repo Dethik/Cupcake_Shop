@@ -1,0 +1,30 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-weight: bold;
+  line-height: 60px;
+}
+
+h2 {
+  font-weight: 30px;
+}
+
+h3 {
+  font-weight: 25px;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.important {
+  color: red;
+}
+
+body {
+  background-image: url("Cupcakes1.jpg");
+  height:auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
