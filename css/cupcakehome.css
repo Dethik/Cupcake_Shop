@@ -7,24 +7,45 @@ h1 {
 
 h2 {
   font-weight: 30px;
+  color:white
 }
 
 h3 {
   font-weight: 25px;
+  color:white
 }
 
 p {
   font-family: Arial, Helvetica, sans-serif;
+  color:gold
 }
 
 .important {
   color: red;
+  font-weight: bold;
 }
 
 body {
-  background-image: url("Cupcakes1.jpg");
+  background-image: url("Cupcakes.png");
   height:auto;
-  background-position: center;
+  background-position: right;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-color: darkgrey;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: gold;
+  font-weight: 75px;
+  line-height: 75px;
+}
+
+li {
+  color: goldenrod;
+  line-height: 75px;
+  font-weight: 75px;
 }
